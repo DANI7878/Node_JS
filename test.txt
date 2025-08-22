@@ -1,0 +1,2 @@
+Hi, this is the sample file for testing node JS application
+My name is Daniel and working on Nod JS applicaton 
